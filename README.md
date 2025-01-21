@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a biomedical engineering student with a minor in mathematics, currently focusing on developing an LLM specialized in electromagnetics. 
+
+How to reach me: kecelisy@vcu.edu
 
 <!--
 **senem584/senem584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
