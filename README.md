@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a biomedical engineering student with a minor in mathematics, currently focusing on developing an LLM specialized in electromagnetics. 
+I am a biomedical engineering undergraduate senior with a minor in mathematics. 
 
 How to reach me: kecelisy@vcu.edu
 
