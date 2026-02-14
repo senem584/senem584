@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a biomedical engineering undergraduate senior with a minor in mathematics. 
 
-Reach out to me on [Linkedin](https://www.linkedin.com/in/senem-keceli/)
+Reach out to me on [Linkedin](https://www.linkedin.com/in/senem-keceli/)!
 
 <!--
 **senem584/senem584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
