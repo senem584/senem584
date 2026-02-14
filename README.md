@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a biomedical engineering undergraduate senior with a minor in mathematics. 
+I am a biomedical engineering undergraduate senior with a minor in mathematics. I currently work in an AI lab and assistive technology lab. 
 
 Reach out to me on [Linkedin](https://www.linkedin.com/in/senem-keceli/)!
 
